@@ -1,5 +1,5 @@
 # ImageStitching
-A project developed by MATLAB for Image Stitching based on SIFT and RANSAC. It's also a personal project 
+A project developed by MATLAB for Image Stitching based on SIFT and RANSAC. It's also a personal project of SJTU EE229 Digital Image Processing.
 
 # Requirements
 Code tested on following environments, other version should also work:

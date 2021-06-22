@@ -6,7 +6,7 @@ Code tested on following environments, other version should also work:
 * Matlab 2020a
 
 # Project Structure
-* [`Problem.m`](codes/Problem.m): Main Function;
+* [`main.m`](codes/main.m): Main Function;
 * [`sift.m`](codes/sift.m): Scale-Invariant Feature Transform;
 * [`RANSAC.m`](codes/RANSAC.m): RANdom SAmple Consensus;
 * [`stitch.m`](codes/stitch.m): Image Stitching function;
